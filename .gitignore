@@ -1,0 +1,20 @@
+# Keil build output
+OBJ/
+LIST/
+Objects/
+*.uvguix.*
+*.map
+*.lst
+*.o
+*.d
+*.crf
+*.dep
+*.lnp
+*.axf
+*.htm
+*.bak
+RTE/_*/
+# OS noise
+Thumbs.db
+desktop.ini
+*.tmp
